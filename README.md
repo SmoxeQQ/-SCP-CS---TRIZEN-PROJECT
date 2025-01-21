@@ -18,7 +18,10 @@
   TRIZEN PROJECT
 </h1>
 <a>
-  Приветсвуем тебя на нашем репозитории проэкта, здесь ты можешь найти кучу плагинов из видео на YouTube канале.
+  Приветсвуем тебя на нашем репозитории проэкта, здесь ты можешь найти кучу плагинов из видео на YouTube канала.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <a>
+</div>
+<div align="center">
+  <h1>:woman_technologist: Чуть-чуть информации :</h1>
 </div>
