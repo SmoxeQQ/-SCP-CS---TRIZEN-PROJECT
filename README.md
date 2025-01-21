@@ -17,8 +17,8 @@
 <h1 align="center">
   TRIZEN PROJECT
 </h1>
-<h1>
+<a>
   Приветсвуем тебя на нашем репозитории проэкта, здесь ты можешь найти кучу плагинов из видео на YouTube канале.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>
+  <a>
 </div>
