@@ -13,7 +13,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1>
-  WELCOME IN, TRIZEN PROJECT
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div>
+<h1 align="center">
+  TRIZEN PROJECT
 </h1>
+<h1>
+  Приветсвуем тебя на нашем репозитории проэкта, здесь ты можешь найти кучу плагинов из видео на YouTube канале.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1>
+</div>
