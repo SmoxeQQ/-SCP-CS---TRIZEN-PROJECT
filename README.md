@@ -31,5 +31,10 @@
 >   - ....
 
 <h1 align="center">
-  Ссылки на плагины из видео:
+  Полезные ссылки:
 </h1>
+<div id="badges2" align="center">
+  <a href="https://akequ.gitbook.io/scp-classified-site-plugin-api">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Plagin-Api-Lik?style=for-the-badge&logo=GitBook">
+  </a>
+</div>
